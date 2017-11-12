@@ -6,8 +6,8 @@ Live version [here](https://expo.io/@blackeka/habitation). Installing [Expo](htt
 
 ## Screenshot
 
-![](assets/screenshots/FriendEcosystem?raw=true)
-![](assets/screenshots/HomeEcosystem?raw=true)
+![](src/components/assets/screenshots/FriendEcosystem?raw=true)
+![](src/components/assets/screenshots/HomeEcosystem?raw=true)
 
 ## Features
  - Add most frequent locations, home, work, gym, etc
@@ -33,4 +33,4 @@ You may need to register your own config for using, phpMyAdmin, Google Places, F
 
 ## Technology Stack
 
-![](assets/techStack.png?raw=true)
+![](src/components/assets/techStack.png?raw=true)
