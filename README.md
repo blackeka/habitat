@@ -1,6 +1,6 @@
 # Natural Habit@
 
-Mobile app for location based task/habits. Get organized and watch your habit@ flourish, interact with friends ecosystems, and stay focused with the productivitity timer.
+Mobile app for location based task/habits. Get organized and watch your habit@ flourish, interact with friends habit@s, and stay focused with the productivitity timer.
 
 Live version [here](https://expo.io/@blackeka/habitation). Installing [Expo](https://expo.io/) is required to run the app.
 
