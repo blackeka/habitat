@@ -6,8 +6,9 @@ Live version [here](https://expo.io/@blackeka/habitation). Installing [Expo](htt
 
 ## Screenshot
 
-![](src/components/assets/screenshots/FriendEcosystem.png?raw=true)
 ![](src/components/assets/screenshots/HomeEcosystem.png?raw=true)
+![](src/components/assets/screenshots/FriendEcosystem.png?raw=true)
+![](src/components/assets/screenshots/TimerEcosystem.png?raw=true)
 
 ## Features
  - Add most frequent locations, home, work, gym, etc
